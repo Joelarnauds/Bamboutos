@@ -1,0 +1,6 @@
+simon >> list.txt
+git status
+echo simon
+simon
+legah
+obi
